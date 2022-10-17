@@ -1,0 +1,97 @@
+[{
+    "id": 1,
+    "tipo": "Remera",
+    "nombre": "Remera Negra",
+    "precio": 4600,
+    "foto": "./imagenes/1.jpg"
+}, {
+    "id": 2,
+    "tipo": "Remera",
+    "nombre": "Remera Blanca",
+    "precio": 4800,
+    "foto": "./imagenes/2.jpg"
+}, {
+    "id": 3,
+    "tipo": "Remera",
+    "nombre": "Remera Gris",
+    "precio": 4300,
+    "foto": "./imagenes/3.jpg"
+}, {
+    "id": 4,
+    "tipo": "Remera",
+    "nombre": "Remera Gris Claro",
+    "precio": 4100,
+    "foto": "./imagenes/4.jpg"
+}, {
+    "id": 5,
+    "tipo": "Remera",
+    "nombre": "Remera Negra",
+    "precio": 3950,
+    "foto": "./imagenes/5.jpg"
+}, {
+    "id": 6,
+    "tipo": "Remera",
+    "nombre": "Remera Gris",
+    "precio": 4500,
+    "foto": "./imagenes/6.jpg"
+}, {
+    "id": 7,
+    "tipo": "Buzo",
+    "nombre": "Buzo Santa Cruz",
+    "precio": 7500,
+    "foto": "./imagenes/7.jpg"
+}, {
+    "id": 8,
+    "tipo": "Buzo",
+    "nombre": "Buzo Vans",
+    "precio": 7800,
+    "foto": "./imagenes/8.jpg"
+}, {
+    "id": 9,
+    "tipo": "Buzo",
+    "nombre": "Buzo Gris",
+    "precio": 6800,
+    "foto": "./imagenes/9.jpg"
+}, {
+    "id": 10,
+    "tipo": "Buzo",
+    "nombre": "Buzo Claro",
+    "precio": 8800,
+    "foto": "./imagenes/10.jpg"
+}, {
+    "id": 11,
+    "tipo": "Pantalon",
+    "nombre": "Pantalon Negro",
+    "precio": 12900,
+    "foto": "./imagenes/11.jpg"
+}, {
+    "id": 12,
+    "tipo": "Pantalon",
+    "nombre": "Jean",
+    "precio": 11200,
+    "foto": "./imagenes/12.jpg"
+}, {
+    "id": 13,
+    "tipo": "Pantalon",
+    "nombre": "Pantalon Negro",
+    "precio": 12000,
+    "foto": "./imagenes/13.jpg"
+}, {
+    "id": 14,
+    "tipo": "Pantalon",
+    "nombre": "Pantalon kakhi",
+    "precio": 13000,
+    "foto": "./imagenes/14.jpg"
+}, {
+    "id": 15,
+    "tipo": "Accesorio",
+    "nombre": "Gorra Verde",
+    "precio": 3300,
+    "foto": "./imagenes/15.jpg"
+}, {
+    "id": 16,
+    "tipo": "Accesorio",
+    "nombre": "Gorras Varios Colores",
+    "precio": 2900,
+    "foto": "./imagenes/16.jpg"
+}]
